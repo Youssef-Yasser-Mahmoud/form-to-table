@@ -44,9 +44,9 @@ npm install
 npm start
 ```
 
-## 📁 Screen Shot
+## 📸 Preview
 
-![App Demo](fullscreenshot.png)
+![App Demo](public/fullscreenshot.png)
 
 ## ✨ Demo
 
